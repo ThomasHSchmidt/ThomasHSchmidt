@@ -1,5 +1,5 @@
 # About Me:
-A student at The George Washington University, <br>pursuing a Bachelor's Degree in Computer Science, <br>with a strong interest in technology, <br>specifically system and network security. <br><br>Enthusiastic about learning more about cybersecurity<br>and currently aiming for a Master's Degree in the field.<br><br>Currently a researcher in GWU's Systems and Securities Lab
+A student at The George Washington University, pursuing a Bachelor's Degree in Computer Science, with a strong interest in technology, specifically system and network security.<br>Enthusiastic about learning more about cybersecurity<br>and currently aiming for a Master's Degree in the field.<br>Currently a researcher in GWU's Systems and Securities Lab
 
 
 ## 🌐 Socials:
